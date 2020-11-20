@@ -1,5 +1,6 @@
 {
   "name": "umi-plugin-antchain-joinus",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "description": "Print antchain joinus info in console.",
   "authors": {
